@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/water_temple_final2.png-157796c068e5b4326679db3f2a66797d.stex"
+path="res://.import/water_temple_final2.png-2382078d15f2cf754e1d10176fea832f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://water_temple_final2.png"
-dest_files=[ "res://.import/water_temple_final2.png-157796c068e5b4326679db3f2a66797d.stex" ]
+source_file="res://scenes/Water_Temple_Godot-Demo/water_temple_final2.png"
+dest_files=[ "res://.import/water_temple_final2.png-2382078d15f2cf754e1d10176fea832f.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Tiles21_disp.jpg-81d6811be096f3e0f08285232bf7c04e.stex"
+path="res://.import/Tiles21_disp.jpg-f42ef06c872e1db0c4deff3002b09825.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://monkey_temple/[2K]Tiles21/Tiles21_disp.jpg"
-dest_files=[ "res://.import/Tiles21_disp.jpg-81d6811be096f3e0f08285232bf7c04e.stex" ]
+source_file="res://scenes/Water_Temple_Godot-Demo/monkey_temple/[2K]Tiles21/Tiles21_disp.jpg"
+dest_files=[ "res://.import/Tiles21_disp.jpg-f42ef06c872e1db0c4deff3002b09825.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/grey_plaster_nor_1k.jpg-696a8a3ca08b19423ee38278ae1673ab.stex"
+path="res://.import/grey_plaster_nor_1k.jpg-3bb2bc88caf0180f4da26235f417af18.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://monkey_temple/grey_plaster_1k_jpg/grey_plaster_nor_1k.jpg"
-dest_files=[ "res://.import/grey_plaster_nor_1k.jpg-696a8a3ca08b19423ee38278ae1673ab.stex" ]
+source_file="res://scenes/Water_Temple_Godot-Demo/monkey_temple/grey_plaster_1k_jpg/grey_plaster_nor_1k.jpg"
+dest_files=[ "res://.import/grey_plaster_nor_1k.jpg-3bb2bc88caf0180f4da26235f417af18.stex" ]
 
 [params]
 

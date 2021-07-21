@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Marble13_REFL_1K.jpg-3e9b4333295f4cb637991da348426d91.stex"
+path="res://.import/Marble13_REFL_1K.jpg-3d9683c52ed34335c11c1ace80808310.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://monkey_temple/Marble13/1K/Marble13_REFL_1K.jpg"
-dest_files=[ "res://.import/Marble13_REFL_1K.jpg-3e9b4333295f4cb637991da348426d91.stex" ]
+source_file="res://scenes/Water_Temple_Godot-Demo/monkey_temple/Marble13/1K/Marble13_REFL_1K.jpg"
+dest_files=[ "res://.import/Marble13_REFL_1K.jpg-3d9683c52ed34335c11c1ace80808310.stex" ]
 
 [params]
 

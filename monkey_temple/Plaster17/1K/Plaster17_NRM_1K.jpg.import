@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/Plaster17_NRM_1K.jpg-09a99e5448f395c84b4f163a70ce1b77.s3tc.stex"
-path.etc2="res://.import/Plaster17_NRM_1K.jpg-09a99e5448f395c84b4f163a70ce1b77.etc2.stex"
+path.s3tc="res://.import/Plaster17_NRM_1K.jpg-bc2026a237524990435f9d50e91aa7a6.s3tc.stex"
+path.etc2="res://.import/Plaster17_NRM_1K.jpg-bc2026a237524990435f9d50e91aa7a6.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://monkey_temple/Plaster17/1K/Plaster17_NRM_1K.jpg"
-dest_files=[ "res://.import/Plaster17_NRM_1K.jpg-09a99e5448f395c84b4f163a70ce1b77.s3tc.stex", "res://.import/Plaster17_NRM_1K.jpg-09a99e5448f395c84b4f163a70ce1b77.etc2.stex" ]
+source_file="res://scenes/Water_Temple_Godot-Demo/monkey_temple/Plaster17/1K/Plaster17_NRM_1K.jpg"
+dest_files=[ "res://.import/Plaster17_NRM_1K.jpg-bc2026a237524990435f9d50e91aa7a6.s3tc.stex", "res://.import/Plaster17_NRM_1K.jpg-bc2026a237524990435f9d50e91aa7a6.etc2.stex" ]
 
 [params]
 

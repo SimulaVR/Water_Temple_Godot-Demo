@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/Tiles21_rgh.jpg-c971cbb8d642744a539cd949a9b44f42.s3tc.stex"
-path.etc2="res://.import/Tiles21_rgh.jpg-c971cbb8d642744a539cd949a9b44f42.etc2.stex"
+path.s3tc="res://.import/Tiles21_rgh.jpg-cb3ac9bad6a789d1b18bbdd29770c65b.s3tc.stex"
+path.etc2="res://.import/Tiles21_rgh.jpg-cb3ac9bad6a789d1b18bbdd29770c65b.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://monkey_temple/[2K]Tiles21/Tiles21_rgh.jpg"
-dest_files=[ "res://.import/Tiles21_rgh.jpg-c971cbb8d642744a539cd949a9b44f42.s3tc.stex", "res://.import/Tiles21_rgh.jpg-c971cbb8d642744a539cd949a9b44f42.etc2.stex" ]
+source_file="res://scenes/Water_Temple_Godot-Demo/monkey_temple/[2K]Tiles21/Tiles21_rgh.jpg"
+dest_files=[ "res://.import/Tiles21_rgh.jpg-cb3ac9bad6a789d1b18bbdd29770c65b.s3tc.stex", "res://.import/Tiles21_rgh.jpg-cb3ac9bad6a789d1b18bbdd29770c65b.etc2.stex" ]
 
 [params]
 

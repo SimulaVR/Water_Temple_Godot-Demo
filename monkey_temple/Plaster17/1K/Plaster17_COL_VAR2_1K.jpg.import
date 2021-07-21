@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/Plaster17_COL_VAR2_1K.jpg-9d71cb57d4828169414a380e320819d1.s3tc.stex"
-path.etc2="res://.import/Plaster17_COL_VAR2_1K.jpg-9d71cb57d4828169414a380e320819d1.etc2.stex"
+path.s3tc="res://.import/Plaster17_COL_VAR2_1K.jpg-d0c991d3f9ebb87e5780c99818662d0b.s3tc.stex"
+path.etc2="res://.import/Plaster17_COL_VAR2_1K.jpg-d0c991d3f9ebb87e5780c99818662d0b.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://monkey_temple/Plaster17/1K/Plaster17_COL_VAR2_1K.jpg"
-dest_files=[ "res://.import/Plaster17_COL_VAR2_1K.jpg-9d71cb57d4828169414a380e320819d1.s3tc.stex", "res://.import/Plaster17_COL_VAR2_1K.jpg-9d71cb57d4828169414a380e320819d1.etc2.stex" ]
+source_file="res://scenes/Water_Temple_Godot-Demo/monkey_temple/Plaster17/1K/Plaster17_COL_VAR2_1K.jpg"
+dest_files=[ "res://.import/Plaster17_COL_VAR2_1K.jpg-d0c991d3f9ebb87e5780c99818662d0b.s3tc.stex", "res://.import/Plaster17_COL_VAR2_1K.jpg-d0c991d3f9ebb87e5780c99818662d0b.etc2.stex" ]
 
 [params]
 

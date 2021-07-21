@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/white_plaster_03_rough_1k.jpg-93b2f7d4d72c019836b1131b45d7e241.s3tc.stex"
-path.etc2="res://.import/white_plaster_03_rough_1k.jpg-93b2f7d4d72c019836b1131b45d7e241.etc2.stex"
+path.s3tc="res://.import/white_plaster_03_rough_1k.jpg-1b803642cffdc69c19155d093300170c.s3tc.stex"
+path.etc2="res://.import/white_plaster_03_rough_1k.jpg-1b803642cffdc69c19155d093300170c.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://monkey_temple/white_plaster_03_1k_jpg/white_plaster_03_rough_1k.jpg"
-dest_files=[ "res://.import/white_plaster_03_rough_1k.jpg-93b2f7d4d72c019836b1131b45d7e241.s3tc.stex", "res://.import/white_plaster_03_rough_1k.jpg-93b2f7d4d72c019836b1131b45d7e241.etc2.stex" ]
+source_file="res://scenes/Water_Temple_Godot-Demo/monkey_temple/white_plaster_03_1k_jpg/white_plaster_03_rough_1k.jpg"
+dest_files=[ "res://.import/white_plaster_03_rough_1k.jpg-1b803642cffdc69c19155d093300170c.s3tc.stex", "res://.import/white_plaster_03_rough_1k.jpg-1b803642cffdc69c19155d093300170c.etc2.stex" ]
 
 [params]
 

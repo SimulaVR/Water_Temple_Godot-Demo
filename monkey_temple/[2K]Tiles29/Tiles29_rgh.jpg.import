@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Tiles29_rgh.jpg-c3fea72019f5aed8342c243931a11dca.stex"
+path="res://.import/Tiles29_rgh.jpg-2c101b83e4e77b3719db53b1d6966b28.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://monkey_temple/[2K]Tiles29/Tiles29_rgh.jpg"
-dest_files=[ "res://.import/Tiles29_rgh.jpg-c3fea72019f5aed8342c243931a11dca.stex" ]
+source_file="res://scenes/Water_Temple_Godot-Demo/monkey_temple/[2K]Tiles29/Tiles29_rgh.jpg"
+dest_files=[ "res://.import/Tiles29_rgh.jpg-2c101b83e4e77b3719db53b1d6966b28.stex" ]
 
 [params]
 

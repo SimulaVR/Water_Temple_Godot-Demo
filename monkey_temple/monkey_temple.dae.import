@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/monkey_temple.dae-a36b4d444381f83aa6a20e85da6a1f2f.scn"
+path="res://.import/monkey_temple.dae-96b05d7d6b3010b4f392dfa6ca7e557c.scn"
 
 [deps]
 
-source_file="res://monkey_temple/monkey_temple.dae"
-dest_files=[ "res://.import/monkey_temple.dae-a36b4d444381f83aa6a20e85da6a1f2f.scn" ]
+source_file="res://scenes/Water_Temple_Godot-Demo/monkey_temple/monkey_temple.dae"
+dest_files=[ "res://.import/monkey_temple.dae-96b05d7d6b3010b4f392dfa6ca7e557c.scn" ]
 
 [params]
 
@@ -22,7 +22,7 @@ materials/keep_on_reimport=true
 meshes/compress=true
 meshes/ensure_tangents=true
 meshes/storage=0
-meshes/light_baking=1
+meshes/light_baking=0
 meshes/lightmap_texel_size=0.1
 external_files/store_in_subdir=false
 animation/import=true

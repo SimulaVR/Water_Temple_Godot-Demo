@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/Marble13_NRM_1K.jpg-6756be07670981aea4b3a7f48884caf0.s3tc.stex"
-path.etc2="res://.import/Marble13_NRM_1K.jpg-6756be07670981aea4b3a7f48884caf0.etc2.stex"
+path.s3tc="res://.import/Marble13_NRM_1K.jpg-8e6209928d08bd890b884f1d619ff06e.s3tc.stex"
+path.etc2="res://.import/Marble13_NRM_1K.jpg-8e6209928d08bd890b884f1d619ff06e.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://monkey_temple/Marble13/1K/Marble13_NRM_1K.jpg"
-dest_files=[ "res://.import/Marble13_NRM_1K.jpg-6756be07670981aea4b3a7f48884caf0.s3tc.stex", "res://.import/Marble13_NRM_1K.jpg-6756be07670981aea4b3a7f48884caf0.etc2.stex" ]
+source_file="res://scenes/Water_Temple_Godot-Demo/monkey_temple/Marble13/1K/Marble13_NRM_1K.jpg"
+dest_files=[ "res://.import/Marble13_NRM_1K.jpg-8e6209928d08bd890b884f1d619ff06e.s3tc.stex", "res://.import/Marble13_NRM_1K.jpg-8e6209928d08bd890b884f1d619ff06e.etc2.stex" ]
 
 [params]
 

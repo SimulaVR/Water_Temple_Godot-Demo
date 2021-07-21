@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Plaster17_REFL_1K.jpg-5f4ef944eae8b498e9a6159e89ceac88.stex"
+path="res://.import/Plaster17_REFL_1K.jpg-e3f06a02c2e1c88a54a300d74f34f0c4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://monkey_temple/Plaster17/1K/Plaster17_REFL_1K.jpg"
-dest_files=[ "res://.import/Plaster17_REFL_1K.jpg-5f4ef944eae8b498e9a6159e89ceac88.stex" ]
+source_file="res://scenes/Water_Temple_Godot-Demo/monkey_temple/Plaster17/1K/Plaster17_REFL_1K.jpg"
+dest_files=[ "res://.import/Plaster17_REFL_1K.jpg-e3f06a02c2e1c88a54a300d74f34f0c4.stex" ]
 
 [params]
 

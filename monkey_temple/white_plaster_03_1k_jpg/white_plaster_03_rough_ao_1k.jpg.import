@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/white_plaster_03_rough_ao_1k.jpg-023e0046fa33e2c7fc7ded6c55b8abc1.stex"
+path="res://.import/white_plaster_03_rough_ao_1k.jpg-59038cc10f55d2ea72c659ad7ac63067.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://monkey_temple/white_plaster_03_1k_jpg/white_plaster_03_rough_ao_1k.jpg"
-dest_files=[ "res://.import/white_plaster_03_rough_ao_1k.jpg-023e0046fa33e2c7fc7ded6c55b8abc1.stex" ]
+source_file="res://scenes/Water_Temple_Godot-Demo/monkey_temple/white_plaster_03_1k_jpg/white_plaster_03_rough_ao_1k.jpg"
+dest_files=[ "res://.import/white_plaster_03_rough_ao_1k.jpg-59038cc10f55d2ea72c659ad7ac63067.stex" ]
 
 [params]
 
